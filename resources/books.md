@@ -36,4 +36,4 @@
 | Tools for Conviviality | Ivan Illich |
 | Everything for Everyone: The Radical Tradition That Is Shaping the Next Economy | Nathan Schneider | 
 | Protocol. How Control Exists after Decentralization | alexander r. galloway |
-
+| Mutualism: Building the Next Economy from the Ground Up | Sarah Horrowitz |
